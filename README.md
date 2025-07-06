@@ -1,1 +1,11 @@
-# Py_asgt3_twelve
+Directory: regex_extract_dates
+
+File: main.py
+
+Task:
+
+Read a paragraph.
+
+Extract all dates in the format DD/MM/YYYY or DD-MM-YYYY.
+
+Print them line by line.
